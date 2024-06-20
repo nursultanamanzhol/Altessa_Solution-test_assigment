@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Altessa Solution test_assigment</string>
+    <string name="ListScreen">Altessa Solutions Test_Assignment</string>
+    <string name="DetailsUser">Details User</string>
+<!--    <string name="userId">ID: %1$d</string>-->
+
+    <string name="error_title">Error</string>
+    <string name="error_text">An error occurred</string>
+    <string name="userId">ID: %d</string>
+    <string name="ok">OK</string>
+</resources>
