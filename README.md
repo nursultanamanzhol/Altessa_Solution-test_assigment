@@ -25,3 +25,6 @@ Users (список всех Github пользователей). Использ�
 
 В приложении должна быть обработка ошибок, отображение состояний загрузки.
 Неоднозначности задания трактуются на усмотрение разработчика
+![image](https://github.com/nursultanamanzhol/Altessa_Solution-test_assigment/assets/91078998/35fe8985-0a6b-454e-998d-0070b7387be7)
+![image](https://github.com/nursultanamanzhol/Altessa_Solution-test_assigment/assets/91078998/73b3baca-1c76-4bf6-b2af-600c8c00a69c)
+![image](https://github.com/nursultanamanzhol/Altessa_Solution-test_assigment/assets/91078998/68683b69-aa1d-4fa2-a957-879535537148)
